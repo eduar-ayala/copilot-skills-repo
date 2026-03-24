@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "Copilot Skills Repository"
+    }
+  ],
+  "settings": {
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+    "editor.formatOnSave": true,
+    "files.exclude": {
+      "**/.git": true
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "GitHub.copilot",
+      "GitHub.copilot-chat"
+    ]
+  }
+}
